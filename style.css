@@ -1,0 +1,9 @@
+.container {
+  background: pink;
+}
+
+@media (min-width: 800px) {
+  .container {
+    background: plum;
+  }
+}
